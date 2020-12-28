@@ -1,0 +1,17 @@
+@import "navbar.css";
+@import "footer.css";
+
+.card {
+    background-color: rgb(89, 157, 173);
+    padding: 20px;
+    margin-top: 20px;
+    background: contain;
+ }
+
+ .cardimg {
+    background-color: rgb(27, 13, 153);
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    background: contain;
+  }
